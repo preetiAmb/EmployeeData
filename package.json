@@ -4,10 +4,10 @@
   "private": true,
   "proxy": "https://api.1337co.de/v3/employees?limit=1000",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
+    "enzyme": "^3.11.0",
+    "fetch": "^1.1.0",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.0",
     "react-dom": "^17.0.2",
@@ -38,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "jest-dom": "^4.0.0"
   }
 }
