@@ -14,7 +14,6 @@ Features
 2. All interactive elements and accessiable through tab, keyboard and screen reader
 3. Works on mobile and tablets
 4. Search functionality to filter out desired results (by name and office)
-<!-- 5. Sort functionality to sort the list by name and office -->
 5. Implemented scroll to render profiles
 6. Words on Chrome
 
