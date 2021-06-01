@@ -5,8 +5,6 @@ EmployeeData - app
 3. Bootstrap for styling
 4. Used lighthouse to test accessibility
 5. Used chromevox to test screen reader functionality
-6. Heroku for deployment:
-7. Draw io for wireframe:
 
 Features
 
