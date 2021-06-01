@@ -13,6 +13,6 @@ Features
 3. Works on mobile and tablets
 4. Search functionality to filter out desired results (by name and office)
 5. Implemented scroll to render profiles
-6. Words on Chrome
+6. Works on Chrome
 
 Note: Need to run npm install and then npm start to run the app!
